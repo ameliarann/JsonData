@@ -1,0 +1,51 @@
+﻿{ "ABriefHistory" : {
+  "history" : [
+    {
+      "id": "sgml1980",
+	  "year": 1980,
+	  "language": {
+        "href": "http://www.w3.org/MarkUp/SGML/",
+		"content": "SGML"
+	  },
+      "details": "SGML was standardized after two years of review and development from the GML language developed at IBM. <a href=\"http://www.sgmlsource.com/history/sgmlhist.htm\">(source)</a>"
+    },
+	{
+      "id": "xml1996",
+      "year": 1996,
+      "language": {
+        "href": "http://www.w3.org/XML/",
+		"content": "XML"
+	  },
+      "details":
+	    "Jon Bosak, now known as <a href=\"https://en.wikipedia.org/wiki/Jon_Bosak\">xml:Father</a>, initiated the development of XML as a way to efficiently provide the Web with the power of SGML" 
+    },
+	{
+      "id": "xml1998",
+	  "year": 1998,
+	  "language": {
+	    "content": "XML"
+      },
+      "detail":
+	    "<a href=\"http://www.w3.org/\">W3C</a> recommended XML 1.0 on February 10, 1998."
+    },
+	{
+	  "id": "json2001",
+      "year": 2001,
+	  "language": {
+        "href": "http://json.org/",
+		"content": "JSON"
+	  },
+      "details":
+	    "JSON began as a way to make a more machine-based information transport that was still human-readable. <a href=\"http://www.json.org/xml.html\"> Its goal has been to improve on XML from the start.</a> Douglas Crockford originally specified and popularised the structure around 2001. It appears to be <a href=\"https://json-csv.com/json\">taking over the web rapidly</a>, being very popular in AJAX, used to make web pages interactive."
+    }
+  ],
+  "vocabulary": [
+    "element",
+	"< tag syntax >",
+    "attribute",
+    "processing instruction",
+    "tag",
+    "identifier"
+  ]
+  }
+}
