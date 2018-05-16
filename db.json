@@ -46,5 +46,28 @@
 		"processing instruction",
 		"tag",
 		"identifier"
+	],
+	"wonders": [{
+			"id": 1,
+			"href": "https://www.ancient.eu/pyramid/",
+			"name": "Great Pyramid",
+			"location": {
+				"lat": "30.0029",
+				"lon": "31.1239",
+				"elevation": "< 100",
+				"city": "Giza",
+				"country": "Egypt"
+			},
+			"image": "https://www.ancient.eu/image/346/"
+		},
+		{
+			"id": 2,
+			"href": "https://www.ancient.eu/babylon/",
+			"name": "Hanging Gardens of Babylon",
+			"location": {
+				"city": "Babylon",
+				"country": "Iraq"
+			}
+		}
 	]
 }
