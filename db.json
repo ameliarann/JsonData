@@ -1,13 +1,7 @@
-{ "ABriefHistory" : {
-	"another": [
-		{ "id":1,
-		 "name":"Sarah"},
-		{ "id":2,
-		 "name":"Sam"}
-		],
-  "history" : [
+{ "history" : [
     {
-      "id": "sgml1980",
+	    "historyId": "sgml1980",
+      "id": 1,
 	  "year": 1980,
 	  "language": {
         "href": "http://www.w3.org/MarkUp/SGML/",
@@ -16,7 +10,8 @@
       "details": "SGML was standardized after two years of review and development from the GML language developed at IBM. <a href=\"http://www.sgmlsource.com/history/sgmlhist.htm\">(source)</a>"
     },
 	{
-      "id": "xml1996",
+	    "historyId": "xml1996",
+      "id": 2,
       "year": 1996,
       "language": {
         "href": "http://www.w3.org/XML/",
@@ -26,7 +21,8 @@
 	    "Jon Bosak, now known as <a href=\"https://en.wikipedia.org/wiki/Jon_Bosak\">xml:Father</a>, initiated the development of XML as a way to efficiently provide the Web with the power of SGML" 
     },
 	{
-      "id": "xml1998",
+      "historyId": "xml1998",
+		"id": 3,
 	  "year": 1998,
 	  "language": {
 	    "content": "XML"
@@ -35,7 +31,8 @@
 	    "<a href=\"http://www.w3.org/\">W3C</a> recommended XML 1.0 on February 10, 1998."
     },
 	{
-	  "id": "json2001",
+	  "historyId": "json2001",
+		"id": 4,
       "year": 2001,
 	  "language": {
         "href": "http://json.org/",
@@ -53,5 +50,4 @@
     "tag",
     "identifier"
   ]
-  }
 }
